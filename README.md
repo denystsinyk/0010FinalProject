@@ -1,4 +1,9 @@
 # 0010FinalProject
 Final project for BigIdeas
 
-Made by Denys Tsinyk and Seamus McGroary
+## Team PawPatrol!
+Denys Tsinyk (det82@pitt.edu) and Seamus McGroary (smm455@pitt.edu)
+
+
+
+
