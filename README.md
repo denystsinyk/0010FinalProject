@@ -10,9 +10,9 @@ Fire Incidents and Student Enrollment - Denys
 Final Notebook - Seamus combined all 3 notebooks and added an introduction and conclusion. Denys added weighting to each data
 
 ### Datasets used
-Fire Incidents - 
-Student Enrollment -
-Parks -
+Fire Incidents -      
+Student Enrollment -        
+Parks -       
 
-ADD ONE SENTANCE OVERVIEW
+ADD ONE SENTENCE OVERVIEW
 
