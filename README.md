@@ -14,5 +14,9 @@ Fire Incidents -
 Student Enrollment -        
 Parks -       
 
-ADD ONE SENTENCE OVERVIEW
+ADD ONE SENTENCE OVERVIEW in readme
+
+add personalized paragrahs in conclusion and our personal favriote stuff
+
+break up normalization and weights and such
 
