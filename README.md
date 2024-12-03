@@ -10,13 +10,9 @@ Fire Incidents and Student Enrollment - Denys
 Final Notebook - Seamus combined all 3 notebooks and added an introduction and conclusion. Denys added weighting to each data
 
 ### Datasets used
-Fire Incidents -      
-Student Enrollment -        
-Parks -       
+Fire Incidents - https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh    
+Student Enrollment - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment/resource/eb1f8714-e0eb-4614-acfe-dfe0ebab942f  
+Parks - https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d      
 
-ADD ONE SENTENCE OVERVIEW in readme
-
-add personalized paragrahs in conclusion and our personal favriote stuff
-
-break up normalization and weights and such
+## Overview of Project
 
